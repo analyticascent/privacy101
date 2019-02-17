@@ -1,5 +1,7 @@
 # Privacy 101: Applications & Services
 
+*For a printer-friendly version of this document, [click here](https://github.com/analyticascent/privacy101/blob/master/application-services.pdf).*
+
 **Summary:** The following links give a good overview of why mass surveilliance by governments is counterproductive, how "data brokers" gather data on consumers, and what happens in a country that combines the worst of both in order to control it's citizens. There's so much more that could be added here, but this should be more than enough to convince most people that there's a lot at stake here.
 
 &nbsp;
